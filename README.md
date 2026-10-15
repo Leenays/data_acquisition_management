@@ -1,7 +1,7 @@
 # Proyek Akuisisi dan Manajemen Data
 Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
-Nama / NIM : ....................
-Tujuan : ....................
+Nama / NIM : I Komang Setiadi Suputra/2501010132
+Tujuan : Mempelajari proses akuisisi dan manajemen data
 ## Struktur Folder
 - data/raw : data mentah hasil akuisisi (READ-ONLY)
 - data/interim : hasil antara (cleaning, transformasi)
